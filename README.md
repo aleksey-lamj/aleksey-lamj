@@ -22,9 +22,8 @@ The goal is to provide realistic infrastructure so developers can focus on featu
 
 ## 🧭 Roadmap
 
+- Custom JSON Placeholder API (create your own endpoints and mock responses)
 - WebSocket API with rate limits and custom payload support
-- Github OAuth
-- Response inspection in the playground (status codes, headers)
 
 ## 🛠 Stack
 
